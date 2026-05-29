@@ -1,0 +1,21 @@
+Introduction to Git & GitHub
+
+What is Git?
+
+Git is a distributed version control system used to track changes in source code during software development. It helps developers manage projects efficiently and keep a history of all changes.
+
+What is GitHub?
+
+GitHub is a cloud-based platform that allows developers to store, manage, and share their Git repositories online. It also supports collaboration among developers.
+
+Why Developers Use Git
+
+Developers use Git because it helps:
+
+Track code changes
+Collaborate with team members
+Restore previous versions of code
+Manage multiple features using branches
+Maintain project history efficiently
+
+
